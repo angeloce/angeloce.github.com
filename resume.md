@@ -1,5 +1,5 @@
 # 刘晨
-Email: garcheck@gmail.com  
+Email: garcheck@gmail.com  Tel: 18600262094
 基本信息: 男， 1986年生， 北京理工大学/自动化2008届/本科
 
 
