@@ -1,0 +1,5 @@
+safe: true
+source: angeloce.github.com
+destination: .
+lsi: false
+pygments: true
