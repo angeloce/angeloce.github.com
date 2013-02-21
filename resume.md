@@ -1,5 +1,7 @@
 # 刘晨
-Email: garcheck@gmail.com  Tel: **18600262094**    
+Email: garcheck@gmail.com  Tel: **18600262094**
+Blog: http://www.cnblogs.com/c9com/  
+Github: http://github.com/angeloce  
 基本信息: 男， 1986年生， 北京理工大学/自动化2008届/本科
 
 
