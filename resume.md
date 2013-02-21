@@ -1,5 +1,5 @@
 # 刘晨
-Email: garcheck@gmail.com  Tel: **18600262094**
+Email: garcheck@gmail.com  Tel: **18600262094**  
 Blog: http://www.cnblogs.com/c9com/  
 Github: http://github.com/angeloce  
 基本信息: 男， 1986年生， 北京理工大学/自动化2008届/本科
@@ -21,7 +21,7 @@ Python, PHP, Nodejs, Django, MySQL, Bootstrap
 #### 2010/07 - 2011/05 Brilliant Earth 项目自动化测试实施
 为钻石类电子商务网站 http://www.brilliantearth.com/ 做自动化测试需求分析和设计。  
 衍生出一个函数级的脚本测试框架 http://sourceforge.net/projects/autofunctest/  
-Python Selenium
+Python, Selenium
 
 #### 2009/04 - 2010/01 车载终端自动化测试
 制作模拟Server， 通过数据交互测试嵌入式车载终端， 代替日常的冒烟检查和疲劳测试。  
