@@ -1,15 +1,11 @@
 # 刘晨
-Email: garcheck@gmail.com  Tel: **18600262094**  
-Blog: http://www.cnblogs.com/c9com/  
-Github: http://github.com/angeloce  
+Email: garcheck@gmail.com  Tel: **18600262094**   
 基本信息: 男， 1986年生， 北京理工大学/自动化2008届/本科
-
 
 ## 工作经历
 * 2011/07 - NOW 腾讯科技北京分公司  微博事业部 测试开发
 * 2010/04 - 2011/07 北京华美汉盛技术有限公司 自动化测试
 * 2008/07 - 2010/04 厦门雅讯网络股份有限公司 软件测试
-
 
 ## 项目经验
 #### 2012/04 - 2012/12 微博测试平台
@@ -29,7 +25,12 @@ Python, WxPython, twisted, matplotlib
 
 
 ## 个人能力
-* 语言： `Python` `PHP` `Javascript` `C`
-* 熟悉 `MySQL`
-* 熟悉测试流程及常用测试工具， 理解质量的重要性
-* 了解该如何对自己的代码做测试
+* 熟练使用 `Python`， 熟悉常用库和框架如`Django` `Tornado`等
+* 熟悉 `PHP` `Javascript` `MySQL` `C/C++`， 能独立完成网站开发
+* 熟悉测试流程及常用测试工具， 理解质量的重要性, 明白该如何对自己的代码做测试
+
+## 个人兴趣
+开发工具： `Vim`, `Aptana`正转`Pycharm`  
+Blog: http://www.cnblogs.com/c9com/  
+Github: http://github.com/angeloce  
+
