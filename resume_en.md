@@ -5,20 +5,27 @@ Email: garcheck@gmail.com Phone: (086)1860-026-2094
 Web Programming, Tester
 
 ## SKILLS AND EXPERTISE
-
+* Strong in design and programming in Python, C, PHP, Javascript programming languages
+* Experience in Automated testing and development on test tools
+* Ability to development for
 
 
 ## EXPERIENCE
 
-Test and Develop Engineer
-2011 - Present, Tencent Inc. 
+Test and Develop Engineer  
+2011 - Present, Tencent Inc.   
 Responsibilities for all of development on test tools and automated testing in QA team.
 
-Test Engineer
-2010 - 2011, Aragon Construction
+Test Engineer  
+2010 - 2011, Aragon Construction  
 Provide technical support for web automated testing based on regression testing and daily monitor
 for the e-commerce website http://www.brilliantearth.com.
 
-Test Engineer
-2008 - 2010, Yaxon Networks
+Test Engineer  
+2008 - 2010, Yaxon Networks  
 Test product and develop test tools
+
+## EDUCATION
+Beijing Institute of Technology, China
+2004 – 2008, Bachelor of Science (BS), Automation Engineer Technology/Technician
+
