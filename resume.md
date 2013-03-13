@@ -1,6 +1,6 @@
 # 刘晨
 Email: garcheck@gmail.com   Phone: (+86)1860-026-2094    
-男,  27岁,  北京理工大学/本科
+男,  27岁,  北京理工大学, 本科
 
 ## 期望工作
 高级测试工程师, 自动化测试或测试开发相关工作
@@ -13,7 +13,7 @@ Email: garcheck@gmail.com   Phone: (+86)1860-026-2094
 * 常用Python, C, PHP, Javascript, 熟悉MySQL, SQLite等, 有足够的Linux经验
 
 ## 工作经历
-2011 - Present, 腾讯科技北京分公司微博事业部, 测试开发工程师  
+2011 - 至今, 腾讯科技北京分公司微博事业部, 测试开发工程师  
 负责质量组自动化测试系统和质量平台的设计与开发, 帮助质量组完成web自动化测试的相关培训和调优. 调配公司的内部
 资源与服务, 负责嵌入CGI接口测试, 白盒扫描, 安全扫描到测试流程中.  
 Python, PHP, Nodejs, Django, MySQL, Bootstrap
