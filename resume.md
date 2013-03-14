@@ -10,7 +10,7 @@ Email: garcheck@gmail.com   Phone: (+86)1860-026-2094
 * 熟知软件测试理论和方法以及相关的测试流程, 理解质量的重要性, 能主动进行技术钻研
 * 熟悉web领域的测试和开发工作, 能独立完成网站开发
 * 能够独立完成测试工作以及相关的测试工具开发
-* 常用Python, C, PHP, Javascript, 熟悉MySQL, SQLite等, 有足够的Linux经验
+* 常用Python, C, PHP, Javascript, 熟悉MySQL, SQLite等, 能在Linux/Windows下工作
 
 ## 工作经历
 2011 - 至今, 腾讯科技北京分公司微博事业部, 测试开发工程师  
