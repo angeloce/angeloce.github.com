@@ -6,29 +6,27 @@ Sex: Male  Age: 27 years
 Senior Test Engineer, Automated Test or Test Development or other related works
 
 ## SKILLS AND EXPERTISE
-* Knowledge of common test tools and frameworks, such as Selenium, QTP, robotframework, cucumber
-* Possess extensive experience in the web developing and testing 
-* Ability to handle test requirement and test development on my own
-* Strongly experienced in Python, C, PHP, Javascript programming, and MySQL, SQLite
-* Aware of the latest technologies, glad to use the newest tools or tech in the work
+* Knowledge of popular test tools and frameworks, such as Selenium, QTP, robotframework, cucumber
+* Extensive experience in the web developing and testing 
+* Ability to handle test requirement and test development
+* Good at Python, C, PHP, Javascript, MySQL, SQLite
+* Passion in new technologies, and try use them in daily work
 
 ## PROFESSIONAL EXPERIENCE
-Test and Develop Engineer  
-2011 - Present, Tencent Inc., China   
-Responsibilities for all of design and development on Automated Test System and Quality Platform in. 
-Support for Automated Testing by using Selenium or other tools on web testing.  
+2011 - Present, Tencent Inc., China - Software Test and Develop Engineer    
+Responsibilities of all of design and development on Automated Test System and Quality Platform.  
+Support team to use the framework and platform in daily work, give training.  
+Responsible of applying CGI interface testing, White-Box Scan, and Security Scan in testing process.    
 Python, PHP, Nodejs, Django, MySQL, Bootstrap
 
-Test Engineer  
-2010 - 2011, Aragon Construction, China  
-Provided technical support for Automated Testing based on Selenium on regression testing and daily monitor
-for the e-commerce website http://www.brilliantearth.com.  
+2010 - 2011, Aragon Construction, China - Software Test Engineer   
+Requirements analysis, design and implement of Automation Testing, Regression Testing and Daily Monitor
+on an e-commerce website http://www.brilliantearth.com.  
 Python, Selenium
-
-Test Engineer  
-2008 - 2010, Yaxon Networks, China  
-Designed and Accomplished test plans for vehicle terminal system. Designed and Developed mock test client
-and server.  
+ 
+2008 - 2010, Yaxon Networks, China - Software Test Engineer     
+Designed  test plans for vehicle terminal system.  
+Designed and Developed mock test client and server.  
 Python, WxPython, twisted, matplotlib
 
 ## EDUCATION
