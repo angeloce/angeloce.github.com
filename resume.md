@@ -1,5 +1,5 @@
 # 刘晨
-Email: garcheck@gmail.com   Phone: (+86)18600262094    
+Email: garcheck@gmail.com   Phone: (+86)186-0026-2094    
 男, 本科
 目前在北京， 寻找一份杭州的工作
 
@@ -13,7 +13,7 @@ Python或PHP开发， 偏服务端架构或平台方向。
 * 技术栈： PHP, Python, NodeJS, Nginx, Redis, MongoDB, MySQL, Hadoop, Yaf, ThinkPHP, Yii, Django, Tornado
 
 ## 工作经历
-2013.6 - 至今， 百度北京， 网页搜索部， 研发工程师
+2013.6 - 至今， 百度北京， 网页搜索部， 研发工程师  
 1. 负责无线搜索的基础架构测试工具设计及测试服务的开发  
 2. 负责无线搜索速度项目和HTTPS项目的测试准入和推广  
 3. 负责搜索阿拉丁产品和系统的开发  
