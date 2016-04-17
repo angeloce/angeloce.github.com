@@ -4,12 +4,10 @@ Email: garcheck@gmail.com   Phone: (+86)186-0026-2094
 北京理工大学, 自动化专业, 学士学位  
 
 ## 期望工作
-Python或PHP开发， 偏服务端架构或平台方向  
-地点： 杭州  
-目前在北京， 寻找一份杭州的工作  
+后端开发， 偏服务端架构或平台方向  
 
 ## 个人能力
-1 熟用PHP， Python， Javascript等语言做服务器系统开发和web开发  
+1 主要使用PHP， Python， Javascript等动态语言  
 2 熟悉常用的分布式、缓存、消息队列等机制， 以及大型网站和高性能系统的架构设计和性能调优  
 3 熟悉搜索引擎原理及架构设计， 熟悉海量数据的常用分析检索策略   
 4 技术栈： PHP, Python, NodeJS, Nginx, Redis, MongoDB, MySQL, Hadoop, Yaf, ThinkPHP, Yii, Django, Tornado
