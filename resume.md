@@ -27,7 +27,7 @@ Email: garcheck@gmail.com   Tel: (+86)186-0026-2094
 技术： PHP, Python, Django, Hadoop, Mysql
 
 **民生阿拉丁产品研发**  
-1. 提升百度搜索内民生类产品和商品类产品的用户pv和满意度， 日PV过亿。
+1. 提升百度搜索内民生类产品和商品类产品的用户pv和满意度， 日PV过亿。  
 2. 迁移重构糯米seo检索服务， 统一检索架构， 优化离线处理逻辑。 糯米倒流PV提高50%以上。
 技术： PHP, Mysql, Redis, Kafka, GSS    
 
